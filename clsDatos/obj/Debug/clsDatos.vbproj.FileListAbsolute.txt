@@ -1,0 +1,12 @@
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsDatos.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsDatos.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsDatos.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.vbprojResolveAssemblyReference.cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.Resources.resources
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.vbproj.GenerateResource.Cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\obj\Debug\clsDatos.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsEstructuras.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsEstructuras.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsDatos\bin\Debug\clsEstructuras.xml

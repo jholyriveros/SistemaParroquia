@@ -1,0 +1,15 @@
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsNegocio.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsNegocio.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsNegocio.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.vbprojResolveAssemblyReference.cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.Resources.resources
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.vbproj.GenerateResource.Cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\obj\Debug\clsNegocio.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsDatos.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsEstructuras.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsDatos.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsDatos.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsEstructuras.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsNegocio\bin\Debug\clsEstructuras.xml

@@ -1,0 +1,9 @@
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\bin\Debug\clsEstructuras.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\bin\Debug\clsEstructuras.pdb
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\bin\Debug\clsEstructuras.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.vbprojResolveAssemblyReference.cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.Resources.resources
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.vbproj.GenerateResource.Cache
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.dll
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.xml
+D:\02 Maleni\Otros\Parsys\Maleni\soliglesia\clsEstructuras\obj\Debug\clsEstructuras.pdb
