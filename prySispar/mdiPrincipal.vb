@@ -49,13 +49,13 @@ Public Class mdiPrincipal
     End Sub
 
     Sub Permisos()
-        If NIVPERFIL = "1" Then ' ADMIN
-            TarfiasGuíasTCToolStripMenuItem.Visible = True
-            GastosTourToolStripMenuItem.Visible = True
-            UsuariosDelSistemaToolStripMenuItem.Visible = True
-            FacturacionToolStripMenuItem.Visible = True
-            ReportesToolStripMenuItem.Visible = True
-        End If
+        'If NIVPERFIL = "1" Then ' ADMIN
+        '    TarfiasGuíasTCToolStripMenuItem.Visible = True
+        '    GastosTourToolStripMenuItem.Visible = True
+        '    UsuariosDelSistemaToolStripMenuItem.Visible = True
+        '    FacturacionToolStripMenuItem.Visible = True
+        '    ReportesToolStripMenuItem.Visible = True
+        'End If
     End Sub
 
     Private Sub UsuariosDelSistemaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles UsuariosDelSistemaToolStripMenuItem.Click

@@ -3,6 +3,7 @@ Imports System.Data.SqlClient
 
 Public Class UsuarioDAO
     Dim sql As String
+    Dim objUtil As New util
 
     Function validar_acceso(usuario As String, clave As String) As String
         Try
@@ -23,7 +24,7 @@ Public Class UsuarioDAO
 
     Function listar_usuarios() As DataTable
         Try
-            'hola
+            Return objUtil.fun_ejecutar_script("usp_tbUsuario_listar", "sp")
         Catch ex As Exception
             Throw New Exception(ex.Message)
         End Try

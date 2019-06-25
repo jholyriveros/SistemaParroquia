@@ -25,12 +25,7 @@ Partial Class mdiPrincipal
         Me.MenuStrip = New System.Windows.Forms.MenuStrip()
         Me.ArchivoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LugaresToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.CuponeraToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.GastosTourToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.TarfiasGuíasTCToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator3 = New System.Windows.Forms.ToolStripSeparator()
-        Me.TransporteToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.ModeloDeCarrosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.UsuariosDelSistemaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.TourToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -93,7 +88,7 @@ Partial Class mdiPrincipal
         '
         'ArchivoToolStripMenuItem
         '
-        Me.ArchivoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LugaresToolStripMenuItem, Me.CuponeraToolStripMenuItem, Me.GastosTourToolStripMenuItem, Me.TarfiasGuíasTCToolStripMenuItem, Me.ToolStripSeparator3, Me.TransporteToolStripMenuItem, Me.ModeloDeCarrosToolStripMenuItem, Me.ToolStripSeparator1, Me.UsuariosDelSistemaToolStripMenuItem})
+        Me.ArchivoToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LugaresToolStripMenuItem, Me.ToolStripSeparator3, Me.ToolStripSeparator1, Me.UsuariosDelSistemaToolStripMenuItem})
         Me.ArchivoToolStripMenuItem.Name = "ArchivoToolStripMenuItem"
         Me.ArchivoToolStripMenuItem.Size = New System.Drawing.Size(60, 20)
         Me.ArchivoToolStripMenuItem.Text = "Archivo"
@@ -101,55 +96,23 @@ Partial Class mdiPrincipal
         'LugaresToolStripMenuItem
         '
         Me.LugaresToolStripMenuItem.Name = "LugaresToolStripMenuItem"
-        Me.LugaresToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.LugaresToolStripMenuItem.Text = "Lugares Turísticos"
-        '
-        'CuponeraToolStripMenuItem
-        '
-        Me.CuponeraToolStripMenuItem.Name = "CuponeraToolStripMenuItem"
-        Me.CuponeraToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.CuponeraToolStripMenuItem.Text = "Cuponeras"
-        '
-        'GastosTourToolStripMenuItem
-        '
-        Me.GastosTourToolStripMenuItem.Name = "GastosTourToolStripMenuItem"
-        Me.GastosTourToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.GastosTourToolStripMenuItem.Text = "Gastos Tour"
-        Me.GastosTourToolStripMenuItem.Visible = False
-        '
-        'TarfiasGuíasTCToolStripMenuItem
-        '
-        Me.TarfiasGuíasTCToolStripMenuItem.Name = "TarfiasGuíasTCToolStripMenuItem"
-        Me.TarfiasGuíasTCToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.TarfiasGuíasTCToolStripMenuItem.Text = "Tarfias Guías/TC"
-        Me.TarfiasGuíasTCToolStripMenuItem.Visible = False
+        Me.LugaresToolStripMenuItem.Size = New System.Drawing.Size(182, 22)
+        Me.LugaresToolStripMenuItem.Text = "Conceptos"
         '
         'ToolStripSeparator3
         '
         Me.ToolStripSeparator3.Name = "ToolStripSeparator3"
-        Me.ToolStripSeparator3.Size = New System.Drawing.Size(197, 6)
-        '
-        'TransporteToolStripMenuItem
-        '
-        Me.TransporteToolStripMenuItem.Name = "TransporteToolStripMenuItem"
-        Me.TransporteToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.TransporteToolStripMenuItem.Text = "Empresas de Transporte"
-        '
-        'ModeloDeCarrosToolStripMenuItem
-        '
-        Me.ModeloDeCarrosToolStripMenuItem.Name = "ModeloDeCarrosToolStripMenuItem"
-        Me.ModeloDeCarrosToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
-        Me.ModeloDeCarrosToolStripMenuItem.Text = "Modelo de Carros"
+        Me.ToolStripSeparator3.Size = New System.Drawing.Size(179, 6)
         '
         'ToolStripSeparator1
         '
         Me.ToolStripSeparator1.Name = "ToolStripSeparator1"
-        Me.ToolStripSeparator1.Size = New System.Drawing.Size(197, 6)
+        Me.ToolStripSeparator1.Size = New System.Drawing.Size(179, 6)
         '
         'UsuariosDelSistemaToolStripMenuItem
         '
         Me.UsuariosDelSistemaToolStripMenuItem.Name = "UsuariosDelSistemaToolStripMenuItem"
-        Me.UsuariosDelSistemaToolStripMenuItem.Size = New System.Drawing.Size(200, 22)
+        Me.UsuariosDelSistemaToolStripMenuItem.Size = New System.Drawing.Size(182, 22)
         Me.UsuariosDelSistemaToolStripMenuItem.Text = "Usuarios del Sistema"
         '
         'TourToolStripMenuItem
@@ -472,7 +435,6 @@ Partial Class mdiPrincipal
     Friend WithEvents TourToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents AlmacénGeneralToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents GuiasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents CuponeraToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents LugaresToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ListadoTourToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents NuevoTourToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
@@ -494,11 +456,7 @@ Partial Class mdiPrincipal
     Friend WithEvents ListadoGuiasTCToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents NuevoGuiaTCToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents VentanasToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents GastosTourToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents TarfiasGuíasTCToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ToolStripSeparator3 As System.Windows.Forms.ToolStripSeparator
-    Friend WithEvents TransporteToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents ModeloDeCarrosToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ProcesosToolStripMenuItem1 As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ListadoClientesToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents NuevoClienteToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem

@@ -11,4 +11,12 @@ Public Class UsuarioBL
             Throw New Exception(ex.Message)
         End Try
     End Function
+
+    Function fun_listar_usuarios() As DataTable
+        Try
+            Return objUsu.listar_usuarios()
+        Catch ex As Exception
+            Throw New Exception(ex.Message)
+        End Try
+    End Function
 End Class
