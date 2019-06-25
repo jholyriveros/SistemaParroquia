@@ -23,7 +23,7 @@ Public Class UsuarioDAO
 
     Function listar_usuarios() As DataTable
         Try
-
+            'hola
         Catch ex As Exception
             Throw New Exception(ex.Message)
         End Try
